@@ -1,0 +1,13 @@
+{
+  "bag":
+  {
+    "item":[
+      {
+        "id":1,
+        "name":"MASK",
+        "icon":"img/closed-mask.png",
+        "description":"Weird Mask."
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id":1,
+  "tag":false,
+  "showName":false,
+  "who":null,
+  "sentence":[
+    {"id":1,"text":null,"speed":15,"skip":null}
+  ],
+  "action":[
+    {
+      "id":1,
+      "nextDialog":null,
+      "nextStage":null,
+      "choice":null,
+      "fadeIn":null,
+      "fadeOut":null,
+      "showCharacter":[
+        {"id":1,"character":null,"img":null}
+      ],
+      "hideCharacter":false,
+      "changeCharacter":[
+        {"id":1,"character":null,"img":null}
+      ],
+      "showScenery":null,
+      "hideScenery":false,
+      "addItem":null,
+      "removeItem":null,
+      "addScore":false,
+      "removeScore":false,
+      "pause":null,
+      "stopTalk":false
+    }
+  ]
+}
